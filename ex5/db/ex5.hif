@@ -1,0 +1,67 @@
+Version 8.1 Build 163 10/28/2008 SJ Web Edition
+11
+1049
+OFF
+OFF
+OFF
+OFF
+ON
+ON
+ON
+FV_OFF
+Level2
+0
+0
+VRSM_ON
+VHSM_ON
+0
+-- Start Partition --
+-- End Partition --
+-- Start Library Paths --
+-- End Library Paths --
+-- Start VHDL Libraries --
+-- End VHDL Libraries --
+# entity
+ex5
+# storage
+db|ex5.(0).cnf
+db|ex5.(0).cnf
+# case_insensitive
+# source_file
+ex5.bdf
+7466f5adce8e7e3c79a2ce324ce76a9
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# hierarchies {
+|
+}
+# macro_sequence
+
+# end
+# entity
+74181
+# storage
+db|ex5.(1).cnf
+db|ex5.(1).cnf
+# case_insensitive
+# source_file
+..|..|..|..|..|altera|81|quartus|libraries|others|maxplus2|74181.bdf
+5a7a42864d75db2f39a1f2da31e3e53
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# hierarchies {
+74181:inst14
+74181:inst13
+74181:inst
+}
+# macro_sequence
+
+# end
+# complete
+

@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Apr 17 20:45:39 2020
+Quartus II Version : 8.1 Build 163 10/28/2008 SJ Web Edition
+Revision Name : exp6
+Top-level Entity Name : exp6
+Family : Cyclone II
+Device : EP2C70F896C6
+Timing Models : Final
+Total logic elements : 8 / 68,416 ( < 1 % )
+    Total combinational functions : 8 / 68,416 ( < 1 % )
+    Dedicated logic registers : 1 / 68,416 ( < 1 % )
+Total registers : 1
+Total pins : 14 / 622 ( 2 % )
+Total virtual pins : 0
+Total memory bits : 0 / 1,152,000 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 300 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
